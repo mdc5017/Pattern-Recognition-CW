@@ -1,12 +1,5 @@
-%%%%%%%%% Pattern Recognition Coursework %%%%%%%%%%%
-
-% Section: Section C - Linear Disctiminant Analysis
-% Start Date: 1/Mar/2021
-clc
-clear
-close all
-%%
-
+%% Section C - part a
+clc; clear all;close all;
 %Note: black foam is 2 and car sponge is 3 in the first row of the .mat
 %file loaded below
 load('F0_PVT_V6_t50.mat')
